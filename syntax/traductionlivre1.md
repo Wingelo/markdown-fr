@@ -36,5 +36,4 @@ You can also create a block of code separated with:
     var a = {};
     ```
 
-
- 
+    :)
